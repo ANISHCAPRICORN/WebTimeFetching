@@ -1,6 +1,14 @@
 #!/usr/bin/python3
+
+'''
+Author  :   Anish Kumar
+E-Mail  :   embuddy.tech@gmail.com
+Date    :   Tue Feb  5 21:26:46 IST 2019
+
+'''
 #https://24timezones.com/time-zone/ist
 #<span class="hours">8</span><span class="minutes">52</span><span class="seconds">18</span><sup>am</sup>
+
 from bs4 import BeautifulSoup 
 import requests
 import re
